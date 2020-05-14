@@ -1,2 +1,14 @@
-<h1>Dark Up® : Bring Dark Mode to any Webpage </h1>
+<p align="center">
+  <img src="https://github.com/ShankarNarayananS/Dark-Up/blob/master/darkup.PNG">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ShankarNarayananS/Dark-Up/blob/master/title.gif">
+</p>
+
+<p align="center">
+  <img src="https://github.com/ShankarNarayananS/Dark-Up/blob/master/main.gif">
+</p>
+
+
 
