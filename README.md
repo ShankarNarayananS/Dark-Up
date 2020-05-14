@@ -16,8 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShankarNarayananS/Dark-Up/blob/master/instructions.PNG
-">
+  <img src="https://github.com/ShankarNarayananS/Dark-Up/blob/master/instructions.PNG">
 </p>
 
 
