@@ -19,7 +19,7 @@
   <img src="https://github.com/ShankarNarayananS/Dark-Up/blob/master/instructions.PNG">
 </p>
 
-<h3> Check out the template <a href="https://friendly-mcnulty-abb37e.netlify.app/">here</h3>
+<h3> Check it out <a href="https://friendly-mcnulty-abb37e.netlify.app/">here</h3>
 
 
 
